@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+.bleu {
+    color: blue;
+}
+
+.jaune {
+        color: rgb(164, 164, 5);
+}
+
+h3{
+    font-size: 20px;/* taille de la typo */
+    text-align: center;/* couleur du text en bleu */
+}
+
+p{
+    background-color: darkblue;/* couleur de fond rose */
+    color: white;/* couleur du texte en bleu */
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
